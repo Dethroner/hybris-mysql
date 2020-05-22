@@ -95,7 +95,7 @@ EOF
 
 ##################################################
 #### Include nginx snippets
-sed -i "2s/nginx/www-data" /etc/nginx/nginx.conf
+sed -i "2s/nginx/www-data/" /etc/nginx/nginx.conf
 cp /vagrant/files/conf/default.conf /etc/nginx/conf.d/
 service nginx reload
 
