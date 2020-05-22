@@ -83,7 +83,7 @@ echo '
   <td width="934px" hieght="73px" bgcolor="#99F">
    <a href="http://10.50.10.100/phpmyadmin">
     <h1 style="font-family: sans-serif; color: #222; line-height: 64px";>Go to phpMyAdmin Version 5.0.2
-    <img src="https://klondike-studio.ru/images/wiki/development/phpmyadmin.png" height="64px"></h1>
+    <img src="phpmyadmin/themes/original/img/logo_right.png" height="64px"></h1>
    </a>
   </td>
  </table>
